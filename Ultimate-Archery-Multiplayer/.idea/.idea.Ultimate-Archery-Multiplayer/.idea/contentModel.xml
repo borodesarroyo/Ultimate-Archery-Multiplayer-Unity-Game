@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\VirtuoseReality\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\VirtuoseReality\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Ultimate-Archery-Multiplayer.-1141033348.00" t="ExcludeRecursive" />
+    <e p="D:\ProjetsUnity\Ultimate-Archery-Multiplayer-Unity-Game\Ultimate-Archery-Multiplayer" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Resources" t="Include">
+          <e p="Shaders" t="Include">
+            <e p="LineRenderer.shader" t="Include" />
+          </e>
+        </e>
+        <e p="Samples" t="Include">
+          <e p="Asteroids" t="Include">
+            <e p="Authoring" t="Include">
+              <e p="AsteroidTagAuthoringComponent.cs" t="Include" />
+              <e p="CurrentSimulatedPositionAuthoringComponent.cs" t="Include" />
+              <e p="CurrentSimulatedRotationAuthoringComponent.cs" t="Include" />
+              <e p="ParticleEmitterAuthoringComponent.cs" t="Include" />
+              <e p="PlayerIdAuthoringComponent.cs" t="Include" />
+              <e p="ShipCommandDataAuthoringComponent.cs" t="Include" />
+              <e p="ShipStateAuthoringComponent.cs" t="Include" />
+              <e p="ShipTagAuthoringComponent.cs" t="Include" />
+              <e p="VelocityAuthoringComponent.cs" t="Include" />
+            </e>
+            <e p="Client" t="Include">
+              <e p="BulletGhostSpawnSystem.cs" t="Include" />
+              <e p="Components" t="Include">
+                <e p="ParticleComponents.cs" t="Include" />
+                <e p="ParticleEmitterComponent.cs" t="Include" />
+              </e>
+              <e p="Generated" t="Include">
+                <e p="AsteroidGhostUpdateSystem.cs" t="Include" />
+                <e p="BulletGhostUpdateSystem.cs" t="Include" />
+                <e p="GhostDeserializerCollection.cs" t="Include" />
+                <e p="ShipGhostUpdateSystem.cs" t="Include" />
+              </e>
+              <e p="ShipGhostSpawnSystem.cs" t="Include" />
+              <e p="Systems" t="Include">
+                <e p="InputSystem.cs" t="Include" />
+                <e p="LoadLevelSystem.cs" t="Include" />
+                <e p="Rendering" t="Include">
+                  <e p="AsteroidRenderSystem.cs" t="Include" />
+                  <e p="BulletRenderSystem.cs" t="Include" />
+                  <e p="LineRenderSystem.cs" t="Include" />
+                  <e p="ParticleEmitterSystem.cs" t="Include" />
+                  <e p="ParticleUpdateSystem.cs" t="Include" />
+                  <e p="ShipRenderSystem.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Editor" t="Include">
+              <e p="BuildTool.cs" t="Include" />
+              <e p="GhostSnapshotValue2DRotation.txt" t="Include" />
+              <e p="GhostSnapshotValue2DTranslation.txt" t="Include" />
+            </e>
+            <e p="GameMain.cs" t="Include" />
+            <e p="Mixed" t="Include">
+              <e p="Commands" t="Include">
+                <e p="RpcLoadLevel.cs" t="Include" />
+                <e p="RpcSpawn.cs" t="Include" />
+              </e>
+              <e p="Components" t="Include">
+                <e p="AsteroidTagComponent.cs" t="Include" />
+                <e p="BulletTagComponent.cs" t="Include" />
+                <e p="CollisionSphereComponent.cs" t="Include" />
+                <e p="LevelComponent.cs" t="Include" />
+                <e p="PlayerStateComponent.cs" t="Include" />
+                <e p="PlayerTagComponent.cs" t="Include" />
+                <e p="ShipCommandData.cs" t="Include" />
+                <e p="VelocityComponent.cs" t="Include" />
+              </e>
+              <e p="Generated" t="Include">
+                <e p="AsteroidSnapshotData.cs" t="Include" />
+                <e p="BulletSnapshotData.cs" t="Include" />
+                <e p="ShipSnapshotData.cs" t="Include" />
+              </e>
+              <e p="Systems" t="Include">
+                <e p="BulletSystem.cs" t="Include" />
+                <e p="SteeringSystem.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Server" t="Include">
+              <e p="Components" t="Include">
+                <e p="BulletAgeComponent.cs" t="Include" />
+              </e>
+              <e p="Generated" t="Include">
+                <e p="AsteroidGhostSerializer.cs" t="Include" />
+                <e p="BulletGhostSerializer.cs" t="Include" />
+                <e p="ShipGhostSerializer.cs" t="Include" />
+              </e>
+              <e p="ServerSettings.cs" t="Include" />
+              <e p="Systems" t="Include">
+                <e p="AsteroidSystem.cs" t="Include" />
+                <e p="BulletAgeSystem.cs" t="Include" />
+                <e p="CollisionSystem.cs" t="Include" />
+                <e p="DisconnectSystem.cs" t="Include" />
+                <e p="LoadLevelSystem.cs" t="Include" />
+                <e p="SpawnSystem.cs" t="Include" />
+                <e p="UpdateConnectionPositionSystem.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Transform2dGhostSnapshotValue.cs" t="Include" />
+          </e>
+          <e p="NetCodeBootstrap.cs" t="Include" />
+          <e p="NetCube" t="Include">
+            <e p="CubeInput.cs" t="Include" />
+            <e p="Game.cs" t="Include" />
+            <e p="Generated" t="Include">
+              <e p="CubeGhostSerializer.cs" t="Include" />
+              <e p="CubeGhostUpdateSystem.cs" t="Include" />
+              <e p="CubeSnapshotData.cs" t="Include" />
+              <e p="GhostDeserializerCollection.cs" t="Include" />
+              <e p="GhostSerializerCollection.cs" t="Include" />
+            </e>
+            <e p="MovableCubeComponent.cs" t="Include" />
+            <e p="MoveCubeSystem.cs" t="Include" />
+          </e>
+          <e p="Ping" t="Include">
+            <e p="ECS" t="Include">
+              <e p="PingClientSystem.cs" t="Include" />
+              <e p="PingConnectionComponent.cs" t="Include" />
+              <e p="PingDriverComponent.cs" t="Include" />
+              <e p="PingDriverSystem.cs" t="Include" />
+              <e p="PingServerSystem.cs" t="Include" />
+            </e>
+            <e p="PingClientBehaviour.cs" t="Include" />
+            <e p="PingClientUIBehaviour.cs" t="Include" />
+            <e p="PingMainThreadClientBehaviour.cs" t="Include" />
+            <e p="PingMainThreadServerBehaviour.cs" t="Include" />
+            <e p="PingServerBehaviour.cs" t="Include" />
+          </e>
+          <e p="Soaker" t="Include">
+            <e p="SoakClient.cs" t="Include" />
+            <e p="SoakClientBehaviour.cs" t="Include" />
+            <e p="SoakClientJobManager.cs" t="Include" />
+            <e p="SoakClientJobs.cs" t="Include" />
+            <e p="SoakCommon.cs" t="Include" />
+            <e p="SoakServer.cs" t="Include" />
+            <e p="SoakServerBehaviour.cs" t="Include" />
+            <e p="SoakServerJobs.cs" t="Include" />
+            <e p="SoakStatisticsReporter.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Asteroids.Client.csproj" t="IncludeRecursive" />
+      <e p="Asteroids.Mixed.csproj" t="IncludeRecursive" />
+      <e p="Asteroids.Server.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Soaker.csproj" t="IncludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Ultimate-Archery-Multiplayer.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
