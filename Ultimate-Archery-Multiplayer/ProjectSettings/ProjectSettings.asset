@@ -576,7 +576,17 @@ PlayerSettings:
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0
   webGLWasmStreaming: 0
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    1: TextMeshPro;NGUI
+    4: TextMeshPro;NGUI
+    7: TextMeshPro;NGUI
+    13: TextMeshPro;NGUI
+    19: TextMeshPro;NGUI
+    21: TextMeshPro;NGUI
+    25: TextMeshPro;NGUI
+    27: TextMeshPro;NGUI
+    28: TextMeshPro;NGUI
+    29: TextMeshPro;NGUI
   platformArchitecture: {}
   scriptingBackend: {}
   il2cppCompilerConfiguration: {}
